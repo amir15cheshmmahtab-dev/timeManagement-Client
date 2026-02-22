@@ -70,6 +70,7 @@ function StrengthBar({ password }: { password: string }) {
   );
 }
 
+
 function AttemptDots({ used }: { used: number }) {
   return (
     <div className="flex items-center gap-1.5">
