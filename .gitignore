@@ -1,0 +1,10 @@
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+*.swp
+node_modules/
+dist/
+build/
+coverage/   
